@@ -1,0 +1,139 @@
+grand
+grands grande grandes
+gros
+grosse grosses
+large
+larges
+lent
+lentement
+enorme
+enormes
+gigantesque
+gigantesques
+canot
+canots
+bateau
+bateaux
+navire
+navires
+vaisseau
+vaisseaux
+bati
+bati batie baties
+construit
+construite construites construits
+taille
+taillee tailles taillees
+epais
+epaisse epaisses
+massif
+massive massifs massives
+poteau
+poteaux
+poutre
+poutres
+maintenir
+maintient maintiens maintiendrai maintiendras maintiendrons
+mat
+mats
+etude
+etudes
+effleurer
+effleure effleurait effleuraient effleureront effleurez effleurent effleura
+toucher
+touche touchons touchez touches touchent touchait touchais touchions touchiez touchaient
+ciel
+ciels
+continuer
+continuent
+azur
+azurs
+eau
+eaux
+ocean
+oceans
+mer
+mers
+rechercher
+recherches
+cache
+cachee caches cachees
+dissimule
+dissimules dissimulees dissimulee
+inconnu
+inconnue inconnus inconnues
+affection
+affections
+amour
+amours
+amitie
+amities
+perruque
+perruques
+postiche
+postiches
+pourchasser
+pourchassions
+cheveux
+
+clairseme
+clairsemee clairsemes clairsemees
+disperse
+dispersee disperses dispersees
+epars
+eparse eparses
+viande
+viandes
+poursuivre
+poursuit poursuivras poursuivrons poursuivent poursuivi
+poulet
+poulets
+chair
+chairs
+agneau
+agneaux
+douce
+doucement
+apprentissage
+apprentissages
+decouvert
+decouverte decouverts decouvertes
+trouve
+trouves trouvee trouvees
+etaler
+etale etales etalons etalez etalent etalais etalait etalions etaliez etalaient
+allonger
+allonge allonges allongeons allongez allongent allongeais allongeait allongions allongiez allongeaient
+satellite
+satellites
+etoile
+etoiles
+soleil
+soleils
+excessif
+excessive excessifs excessives
+abusif
+abusifs abusive abusives
+$
+grand gros large enorme gigantesque
+poursuivre pourchasser traquer chasser harceler rechercher
+poursuivre continuer perpetuer prolonger maintenir persister
+canot bateau navire vaisseau
+bati construit taille
+epais gros massif
+poteau poutre mat
+effleurer toucher
+ciel azur
+eau ocean mer
+cache dissimule inconnu
+affection amour amitie
+perruque postiche cheveux
+clairseme disperse epars
+viande poulet chair agneau
+lent douce
+decouvert nu deshabille
+decouvert trouve
+etaler allonger
+etude apprentissage
+satellite etoile soleil
+excessif abusif
